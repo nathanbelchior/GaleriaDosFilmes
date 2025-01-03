@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaFilmes", "BibliotecaFilmes\BibliotecaFilmes.csproj", "{9A3490A3-029B-43E3-ABB9-D63E348B7CFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaFilmesLibrary", "..\..\BibliotecaFilmesLibrary\BibliotecaFilmesLibrary\BibliotecaFilmesLibrary\BibliotecaFilmesLibrary.csproj", "{08724089-B539-4C47-A877-60A48F0244B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3490A3-029B-43E3-ABB9-D63E348B7CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3490A3-029B-43E3-ABB9-D63E348B7CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3490A3-029B-43E3-ABB9-D63E348B7CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3490A3-029B-43E3-ABB9-D63E348B7CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08724089-B539-4C47-A877-60A48F0244B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08724089-B539-4C47-A877-60A48F0244B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08724089-B539-4C47-A877-60A48F0244B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08724089-B539-4C47-A877-60A48F0244B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFFB8E4B-22A4-468F-BB37-204B5AB80823}
+	EndGlobalSection
+EndGlobal
